@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\williamRMo84\\Desktop\\UAM\\progra04\\Plantilla_ProgramacionIV\\ProgramacionIV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C5BB7D-B09E-4B0B-8C20-8E2855D7CF4B}|ProgramacionIV.csproj|c:\\users\\williamrmo84\\desktop\\uam\\progra04\\plantilla_programacioniv\\programacioniv\\views\\materias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20C5BB7D-B09E-4B0B-8C20-8E2855D7CF4B}|ProgramacionIV.csproj|solutionrelative:views\\materias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C5BB7D-B09E-4B0B-8C20-8E2855D7CF4B}|ProgramacionIV.csproj|c:\\users\\williamrmo84\\desktop\\uam\\progra04\\plantilla_programacioniv\\programacioniv\\views\\materias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C5BB7D-B09E-4B0B-8C20-8E2855D7CF4B}|ProgramacionIV.csproj|solutionrelative:views\\materias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C5BB7D-B09E-4B0B-8C20-8E2855D7CF4B}|ProgramacionIV.csproj|c:\\users\\williamrmo84\\desktop\\uam\\progra04\\plantilla_programacioniv\\programacioniv\\views\\estudiantes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C5BB7D-B09E-4B0B-8C20-8E2855D7CF4B}|ProgramacionIV.csproj|solutionrelative:views\\estudiantes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C5BB7D-B09E-4B0B-8C20-8E2855D7CF4B}|ProgramacionIV.csproj|C:\\Users\\williamRMo84\\Desktop\\UAM\\progra04\\Plantilla_ProgramacionIV\\ProgramacionIV\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{20C5BB7D-B09E-4B0B-8C20-8E2855D7CF4B}|ProgramacionIV.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 461,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\williamRMo84\\Desktop\\UAM\\progra04\\Plantilla_ProgramacionIV\\ProgramacionIV\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Users\\williamRMo84\\Desktop\\UAM\\progra04\\Plantilla_ProgramacionIV\\ProgramacionIV\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-06T18:22:36.022Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiantes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\williamRMo84\\Desktop\\UAM\\progra04\\Plantilla_ProgramacionIV\\ProgramacionIV\\Views\\Estudiantes.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Estudiantes.aspx.cs",
+              "ToolTip": "C:\\Users\\williamRMo84\\Desktop\\UAM\\progra04\\Plantilla_ProgramacionIV\\ProgramacionIV\\Views\\Estudiantes.aspx.cs",
+              "RelativeToolTip": "Views\\Estudiantes.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:45:37.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Materias.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\williamRMo84\\Desktop\\UAM\\progra04\\Plantilla_ProgramacionIV\\ProgramacionIV\\Views\\Materias.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Materias.aspx.cs",
+              "ToolTip": "C:\\Users\\williamRMo84\\Desktop\\UAM\\progra04\\Plantilla_ProgramacionIV\\ProgramacionIV\\Views\\Materias.aspx.cs",
+              "RelativeToolTip": "Views\\Materias.aspx.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAEIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T03:44:31.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 461,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Materias.aspx",
+              "DocumentMoniker": "C:\\Users\\williamRMo84\\Desktop\\UAM\\progra04\\Plantilla_ProgramacionIV\\ProgramacionIV\\Views\\Materias.aspx",
+              "RelativeDocumentMoniker": "Views\\Materias.aspx",
+              "ToolTip": "C:\\Users\\williamRMo84\\Desktop\\UAM\\progra04\\Plantilla_ProgramacionIV\\ProgramacionIV\\Views\\Materias.aspx",
+              "RelativeToolTip": "Views\\Materias.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-09T03:40:41.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
