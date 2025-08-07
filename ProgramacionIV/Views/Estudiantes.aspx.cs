@@ -49,7 +49,7 @@ namespace ProgramacionIV.Views
                 string nombre = txtNombre.Text.Trim();
                 string apellidos = txtApellidos.Text.Trim();
                 string correo = txtCorreo.Text.Trim();
-                DateTime fechaNacimiento = Convert.ToDateTime(txtFechaNacimiento.Text);
+                DateTime fechaNacimiento = Convert.ToDateTime(txtFechaNacimiento.Text);// error al convertir a fecha
 
                 // Validaciones básicas (puedes hacer más detalladas si gustas)
                 if (string.IsNullOrEmpty(nombre) || string.IsNullOrEmpty(apellidos) || string.IsNullOrEmpty(txtFechaNacimiento.Text))
@@ -70,11 +70,13 @@ namespace ProgramacionIV.Views
                         FechaNacimiento = fechaNacimiento
                     };
 
+                    // Esto inserta un nuevo registro
                     if (estudiante.EstudianteID == 0)
                     {
                         var respuestaMetodo = vWCFClient.InsertarEstudiante(estudiante);
                     } else
                     {
+                        // Actualiza un registro
                         var respuestaMetodo = vWCFClient.ActualizarEstudiante(estudiante);
 
                     }
@@ -97,6 +99,7 @@ namespace ProgramacionIV.Views
             int index = Convert.ToInt32(e.CommandArgument);
             int estudianteID = Convert.ToInt32(gvEstudiantes.DataKeys[index].Value);
 
+            // seleccionar para actualizar en el form
             if (e.CommandName == "Seleccionar")
             {
                 Response.Write($"Seleccionado estudiante con ID: {estudianteID}");
