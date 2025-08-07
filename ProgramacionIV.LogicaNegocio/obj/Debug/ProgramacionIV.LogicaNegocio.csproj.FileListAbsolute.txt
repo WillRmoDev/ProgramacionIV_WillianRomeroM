@@ -24,3 +24,16 @@ C:\Users\williamRMo84\Desktop\UAM\progra04\Plantilla_ProgramacionIV\Programacion
 C:\Users\williamRMo84\Desktop\UAM\progra04\Plantilla_ProgramacionIV\ProgramacionIV.LogicaNegocio\obj\Debug\Programa.47569C7E.Up2Date
 C:\Users\williamRMo84\Desktop\UAM\progra04\Plantilla_ProgramacionIV\ProgramacionIV.LogicaNegocio\obj\Debug\ProgramacionIV.LogicaNegocio.dll
 C:\Users\williamRMo84\Desktop\UAM\progra04\Plantilla_ProgramacionIV\ProgramacionIV.LogicaNegocio\obj\Debug\ProgramacionIV.LogicaNegocio.pdb
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\bin\Debug\ProgramacionIV.LogicaNegocio.dll
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\bin\Debug\ProgramacionIV.LogicaNegocio.pdb
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\bin\Debug\ProgramacionIV.AccesoDatos.dll
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\bin\Debug\ProgramacionIV.Entidades.dll
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\bin\Debug\ProgramacionIV.AccesoDatos.pdb
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\bin\Debug\ProgramacionIV.AccesoDatos.dll.config
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\bin\Debug\ProgramacionIV.Entidades.pdb
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\bin\Debug\ProgramacionIV.Entidades.dll.config
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\obj\Debug\ProgramacionIV.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\obj\Debug\ProgramacionIV.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\obj\Debug\Programa.47569C7E.Up2Date
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\obj\Debug\ProgramacionIV.LogicaNegocio.dll
+C:\Users\williamRMo84\Desktop\UAM\progra04\ProgramacionIV_WillianRomeroM\ProgramacionIV.LogicaNegocio\obj\Debug\ProgramacionIV.LogicaNegocio.pdb
